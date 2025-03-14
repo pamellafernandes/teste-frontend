@@ -1,6 +1,6 @@
-# Bem-vindo ao Meu Teste Front-End
+# Bem-vindo(a) ao Meu Teste Front-End
 
-Bem-vindo ao meu teste front-end! Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web utilizando tecnologias modernas como Next.js, TypeScript, e Tailwind CSS. O objetivo é criar um formulário de endereço que se integra com a API ViaCEP para preenchimento automático dos campos e permite salvar os dados em um arquivo JSON.
+Seja Bem-vindo(a) ao meu teste front-end! Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web utilizando tecnologias modernas como Next.js, TypeScript, e Tailwind CSS. O objetivo é criar um formulário de endereço que se integra com a API ViaCEP para preenchimento automático dos campos e permite salvar os dados em um arquivo JSON.
 
 ## O que o Tester Pode Esperar
 
